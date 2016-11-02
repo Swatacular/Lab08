@@ -1,0 +1,6 @@
+C:\Users\Thomas\Desktop\Programming\Version-Control\Lab08\Lab08\bin\Debug\Lab08.exe.config
+C:\Users\Thomas\Desktop\Programming\Version-Control\Lab08\Lab08\bin\Debug\Lab08.exe
+C:\Users\Thomas\Desktop\Programming\Version-Control\Lab08\Lab08\bin\Debug\Lab08.pdb
+C:\Users\Thomas\Desktop\Programming\Version-Control\Lab08\Lab08\obj\Debug\Lab08.csprojResolveAssemblyReference.cache
+C:\Users\Thomas\Desktop\Programming\Version-Control\Lab08\Lab08\obj\Debug\Lab08.exe
+C:\Users\Thomas\Desktop\Programming\Version-Control\Lab08\Lab08\obj\Debug\Lab08.pdb
