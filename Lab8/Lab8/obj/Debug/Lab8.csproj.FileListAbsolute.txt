@@ -1,0 +1,12 @@
+c:\users\kamel\documents\visual studio 2015\Projects\Lab8\Lab8\bin\Debug\Lab8.exe.config
+c:\Users\kamel\Documents\Visual Studio 2015\Projects\Lab8\Lab8\bin\Debug\Lab8.exe
+c:\Users\kamel\Documents\Visual Studio 2015\Projects\Lab8\Lab8\bin\Debug\Lab8.pdb
+c:\Users\kamel\Documents\Visual Studio 2015\Projects\Lab8\Lab8\obj\Debug\Lab8.csprojResolveAssemblyReference.cache
+c:\Users\kamel\Documents\Visual Studio 2015\Projects\Lab8\Lab8\obj\Debug\Lab8.exe
+c:\Users\kamel\Documents\Visual Studio 2015\Projects\Lab8\Lab8\obj\Debug\Lab8.pdb
+C:\Users\Thomas\Desktop\Programming\Version-Control\Lab08\Lab8\Lab8\bin\Debug\Lab8.exe.config
+C:\Users\Thomas\Desktop\Programming\Version-Control\Lab08\Lab8\Lab8\obj\Debug\Lab8.exe
+C:\Users\Thomas\Desktop\Programming\Version-Control\Lab08\Lab8\Lab8\obj\Debug\Lab8.pdb
+C:\Users\Thomas\Desktop\Programming\Version-Control\Lab08\Lab8\Lab8\bin\Debug\Lab8.exe
+C:\Users\Thomas\Desktop\Programming\Version-Control\Lab08\Lab8\Lab8\bin\Debug\Lab8.pdb
+C:\Users\Thomas\Desktop\Programming\Version-Control\Lab08\Lab8\Lab8\obj\Debug\Lab8.csprojResolveAssemblyReference.cache
